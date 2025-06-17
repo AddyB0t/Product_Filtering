@@ -1,0 +1,9 @@
+langchain
+langchain-community
+langchain-huggingface
+torch
+SQLAlchemy
+python-dotenv
+psycopg2-binary
+faiss-cpu
+sentence-transformers 
